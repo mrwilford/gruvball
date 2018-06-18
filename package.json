@@ -26,6 +26,14 @@
             }
         ]
     },
+    "bugs": {
+        "url": "https://github.com/mrwilford/gruvball/issues"
+    },
+    "homepage": "https://github.com/mrwilford/gruvball/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mrwilford/gruvball.git"
+    },
     "keywords": [
         "Vscode",
         "Theme",
