@@ -1,2 +1,5 @@
 node_modules/
 .vscode
+*.vsix
+*.bat
+*.psd
