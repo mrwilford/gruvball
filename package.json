@@ -1,0 +1,34 @@
+{
+    "name": "gruvball",
+    "displayName": "gruvball",
+    "description": "gruvball vscode color theme",
+    "version": "1.0.0",
+    "publisher": "mrwilford",
+    "author": "@mrwilford",
+    "license": "MIT",
+    "icon": "icon.jpg",
+    "galleryBanner": {
+        "color": "#c0aea0",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "gruvball",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gruvball-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "gruvball"
+    ]
+}
