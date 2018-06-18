@@ -1,6 +1,6 @@
 # gruvball theme
 
-One dark theme for Visual Studio Code, based on Atom's One Dark
+gruvball dark theme for Visual Studio Code
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Installs](https://vsmarketplacebadge.apphb.com/installs/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![GitHub stars](https://img.shields.io/github/stars/mrwilford/gruvball.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrwilford/gruvball)
 
