@@ -5,5 +5,5 @@ Format based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
-## [1.0.0] - 2018.06.15
+## [1.0.0] - 2018.06.18
 ### Initial release
