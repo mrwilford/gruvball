@@ -2,7 +2,7 @@
 	"name": "gruvball",
 	"type": "dark",
 	"colors": {
-		"foreground": "#c0aea0",
+		"foreground": "#726472",
 		"selection.background": "#a386a0",
 		"textLink.foreground": "#806292",
 		"textLink.activeForeground": "#c64964",
@@ -106,7 +106,7 @@
 		"gitDecoration.modifiedResourceForeground": "#c0aea0",
 		"gitDecoration.deletedResourceForeground": "#b1314c",
 		"gitDecoration.untrackedResourceForeground": "#2f7a5d",
-		"gitDecoration.ignoredResourceForeground": "#794966"
+		"gitDecoration.ignoredResourceForeground": "#493441"
 	},
 	"tokenColors": [
 		{
