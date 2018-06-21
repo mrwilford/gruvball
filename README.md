@@ -1,13 +1,13 @@
 # gruvball theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Installs](https://vsmarketplacebadge.apphb.com/installs/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![GitHub stars](https://img.shields.io/github/stars/mrwilford/gruvball.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrwilford/gruvball)
+
 ✓ Dark theme for Visual Studio Code.<br />
 ✓ Low contrast and easy on the eyes.<br />
 ✓ Works with [all languages built-in to vscode](https://blogs.msdn.microsoft.com/user_ed/2015/10/24/what-languages-are-supported-for-visual-studio-code/).<br />
 ✓ Color palette rooted in deep purples and reds.<br />
 
 ![color palette](palette.png)
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Installs](https://vsmarketplacebadge.apphb.com/installs/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/mrwilford.theme-gruvball.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-gruvball) [![GitHub stars](https://img.shields.io/github/stars/mrwilford/gruvball.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrwilford/gruvball)
 
 
 ## Make Changes
