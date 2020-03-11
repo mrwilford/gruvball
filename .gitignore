@@ -1,5 +1,8 @@
+#ignore node modules
 node_modules/
-.vscode
+
+#ignore extension packages
 *.vsix
-*.bat
+
+#ignore assets
 *.psd

@@ -1,6 +1,12 @@
+# Tell VSCode what not to include when the extension is installed.
+#   By default, everything except for the transpiled JavaScript 
+#   code, Node dependencies, and the Extension Manifest (what 
+#   VSCode calls package.json) are excluded from the install.
+
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
 *.bat
 *.psd
 example.*
